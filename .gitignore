@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# database files 
+pocketbase
+pb_data
+pb_migrations
+
 # testing
 /coverage
 
